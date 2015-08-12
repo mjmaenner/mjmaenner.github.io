@@ -10,8 +10,8 @@ relative_permalinks: true
 title:            'Matthew Maenner'
 tagline:         
 description:      'Epidemiologist'
-url:              http://mjmaenner.github.io/
-baseurl:          http://mjmaenner.github.io/
+url:              http://mjmaenner.github.io
+baseurl:          /
 
 author:
   name:           'Matt'
