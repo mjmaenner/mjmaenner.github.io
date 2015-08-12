@@ -15,7 +15,7 @@ baseurl:          http://mjmaenner.github.io/
 
 author:
   name:           'Matt'
-  url:            https://matthewmaenner.com
+  url:            http://mjmaenner.github.io
 
 paginate:         5
 
