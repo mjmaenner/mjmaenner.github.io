@@ -7,15 +7,15 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            'looks like a dance epidemic to me'
+title:            'Matthew Maenner'
 tagline:         
-description:      
-url:              http://mjmaenner.github.io/hyde/
-baseurl:          http://mjmaenner.github.io/hyde/
+description:      'Epidemiologist'
+url:              http://mjmaenner.github.io/
+baseurl:          http://mjmaenner.github.io/
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Matt'
+  url:            https://matthewmaenner.com
 
 paginate:         5
 
