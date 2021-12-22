@@ -22,3 +22,5 @@ paginate:         5
 
 
 github:           http://github.com/mjmaenner
+
+theme: jekyll-theme-tactile
